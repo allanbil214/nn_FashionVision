@@ -33,8 +33,8 @@ The model uses a series of convolutional and pooling layers, followed by dense l
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/FashionVision.git
-    cd FashionVision
+    git clone https://github.com/allanbil214/nn_FashionVision.git
+    cd nn_FashionVision
     ```
 
 2. Install the required dependencies:
